@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "id": "FfOeM5LECna7GINly30Dc",
+      "title": "타입스크립트 공부하기",
+      "content": "너무 어려워요",
+      "isDone": true
+    },
+    {
+      "id": "FfOeM5LECna7GINly30Dc",
+      "title": "리액트 쿼리 공부하기",
+      "content": "리액트 쿼리 강의 듣기",
+      "isDone": false
+    },
+    {
+      "id": "FfOeM5LECna7GINly30Dc",
+      "title": "생일선물 준비하기",
+      "content": "미리 주문해놓기",
+      "isDone": true
+    }
+  ]
 }
